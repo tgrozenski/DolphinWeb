@@ -1,0 +1,38 @@
+Required: 
+
+Block Model - Formatting - 2 or 3 column layout and footer
+
+Navigation on all pages using pseudo-class and at least one state
+Form with external CSS 
+Table with external CSS  
+Last touches to add:
+
+1. Add a table - with captions, table, tr, th, td tags, color, styles, cells spanning multiple rows, border collapse (follow the example pages 601 - 642 Segway'n USA exercise) NOTE: you can just add the Segway'n USA table, or your creation for credit.
+
+2. Add a form element - with several input types - text, email, submit, radio, checkbox, textarea, password, fieldset/legend. Follow the exercise pages 645-695. Style the form using external CSS.
+You can optionally use other input types such as number, range, color, date, etc.
+
+Rubric
+Final - finish About an Animal Site
+Final - finish About an Animal Site
+Criteria Ratings Pts
+This criterion is linked to a Learning OutcomeNav, pseudo classes, footers, semantic elements
+Nav element for navigation - every page 
+pseudo classes for navigation
+10 pts
+This criterion is linked to a Learning OutcomeTable
+Include a table.
+10 pts
+This criterion is linked to a Learning OutcomeForm
+One form with table, fieldset, and legend.
+10 pts
+This criterion is linked to a Learning OutcomeBlock Model
+Formatting - 2 or 3 column layout and footer
+10 pts
+This criterion is linked to a Learning OutcomeExternal CSS - Form
+Form styled using external CSS.
+5 pts
+This criterion is linked to a Learning OutcomeExternal CSS - Table
+Use of external CSS for form
+5 pts
+Total Points: 50
